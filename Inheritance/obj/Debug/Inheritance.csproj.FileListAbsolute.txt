@@ -1,0 +1,7 @@
+C:\Users\JGM\Desktop\C#\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\JGM\Desktop\C#\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\JGM\Desktop\C#\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\JGM\Desktop\C#\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\JGM\Desktop\C#\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\JGM\Desktop\C#\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\JGM\Desktop\C#\Inheritance\obj\Debug\Inheritance.pdb
